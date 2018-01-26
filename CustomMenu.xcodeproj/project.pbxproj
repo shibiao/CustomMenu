@@ -11,6 +11,7 @@
 		69721279201AB1F900C3C7CB /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69721278201AB1F900C3C7CB /* ViewController.swift */; };
 		6972127B201AB1F900C3C7CB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6972127A201AB1F900C3C7CB /* Assets.xcassets */; };
 		6972127E201AB1F900C3C7CB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6972127C201AB1F900C3C7CB /* Main.storyboard */; };
+		69721287201ABDF200C3C7CB /* CustomButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69721286201ABDF200C3C7CB /* CustomButton.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,7 @@
 		6972127D201AB1F900C3C7CB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		6972127F201AB1F900C3C7CB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		69721280201AB1F900C3C7CB /* CustomMenu.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = CustomMenu.entitlements; sourceTree = "<group>"; };
+		69721286201ABDF200C3C7CB /* CustomButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomButton.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +57,7 @@
 			children = (
 				69721276201AB1F900C3C7CB /* AppDelegate.swift */,
 				69721278201AB1F900C3C7CB /* ViewController.swift */,
+				69721286201ABDF200C3C7CB /* CustomButton.swift */,
 				6972127A201AB1F900C3C7CB /* Assets.xcassets */,
 				6972127C201AB1F900C3C7CB /* Main.storyboard */,
 				6972127F201AB1F900C3C7CB /* Info.plist */,
@@ -136,6 +139,7 @@
 			files = (
 				69721279201AB1F900C3C7CB /* ViewController.swift in Sources */,
 				69721277201AB1F900C3C7CB /* AppDelegate.swift in Sources */,
+				69721287201ABDF200C3C7CB /* CustomButton.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
